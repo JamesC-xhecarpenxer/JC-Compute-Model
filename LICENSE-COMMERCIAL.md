@@ -21,16 +21,16 @@ educational institution, non-profit, association, or similar body.
 
 ### Annual
 
-Individual Professional .......... $99/year
-Small Business (<10 employees) ... $499/year
-Business (10-100 employees) ...... $2,499/year
+Individual Professional .......... Contact Author
+Small Business (<10 employees) ... Contact Author
+Business (10-100 employees) ...... Contact Author
 Enterprise (100+) ................. Contact Author
 
 ### Lifetime
 
-Individual Professional .......... $499
-Small Business (<10 employees) ... $2,499
-Business (10-100 employees) ...... $9,999
+Individual Professional .......... Contact Author
+Small Business (<10 employees) ... Contact Author
+Business (10-100 employees) ...... Contact Author
 Enterprise (100+) ................. Contact Author
 
 ## Rights Granted
